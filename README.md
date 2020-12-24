@@ -65,8 +65,8 @@ drwxr-xr-x 2 root root  55 Dec 24 13:21 linux
 [root@TrueDei work-box]# 
 [root@TrueDei work-box]# 
 [root@TrueDei work-box]# git push -u origin main
-Username for 'https://github.com': truedei
-Password for 'https://truedei@github.com': 
+Username for 'https://github.com': truedei  #输入github的账号
+Password for 'https://truedei@github.com':  #输入github的密码
 Enumerating objects: 6, done.
 Counting objects: 100% (6/6), done.
 Delta compression using up to 2 threads
